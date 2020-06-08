@@ -16,5 +16,9 @@ Here are the features in summary:
 * User can submit a pitch in any of the provided categories
 * User can view the different categories
 
+### Requirements
+* This python program requires python 3+ (and pip) installed.A guide on how to install can be found[here](https://www.python.org/)
+* 
+
 
 
