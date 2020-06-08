@@ -23,7 +23,7 @@ Here are the features in summary:
            **`pip install flask`**
 
 ### Installation and Set-up
-          
+Here is a run through of how to set up the application.
 
 
 
