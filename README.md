@@ -42,7 +42,20 @@ Here is a run through of how to set up the application:
     
 ### Known Bugs 
 * No known bugs with this current iteration,be sure to notify me in case of any.
-    
+
+### Technologies used
+* Python 3.6
+* Flask
+* Postgre SQL
+* SQLAlchemy
+* HTML
+* CSS
+* Bootstrap 4.3.1
+* Font Awesome 5.8.2
+* JQuery 3.4.1
+* Google Font API
+
+### 
     
 
 
