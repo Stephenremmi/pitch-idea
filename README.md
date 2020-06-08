@@ -55,7 +55,15 @@ Here is a run through of how to set up the application:
 * JQuery 3.4.1
 * Google Font API
 
-### 
+### Support and Contact Details
+You can provide feedback or raise any issues/bugs through the following means:
+* stephenremmi@gmail.com
+
+### Live Site Link
+You can view the live application by following this [link]()
+
+### [License]()
+
     
 
 
