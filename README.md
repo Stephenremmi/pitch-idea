@@ -24,6 +24,7 @@ Here are the features in summary:
 
 ### Installation and Set-up
 Here is a run through of how to set up the application.
+**Step1**:Clone this repository using ** git clone ** or downloading a ZIP file of the code.
 
 
 
