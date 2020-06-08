@@ -63,6 +63,7 @@ You can provide feedback or raise any issues/bugs through the following means:
 You can view the live application by following this [link]()
 
 ### [License](https://github.com/Stephenremmi/pitch-idea/blob/master/LICENSE)
+MIT license Copyright(c) 2020 **Stephen Remmi**
 
 
     
