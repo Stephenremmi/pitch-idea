@@ -62,7 +62,8 @@ You can provide feedback or raise any issues/bugs through the following means:
 ### Live Site Link
 You can view the live application by following this [link]()
 
-### [License]()
+### [License](https://github.com/Stephenremmi/pitch-idea/blob/master/LICENSE)
+
 
     
 
