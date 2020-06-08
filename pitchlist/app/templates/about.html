@@ -1,0 +1,44 @@
+{%extends "base.html"%}
+{%block styles%}
+{{super()}}
+<link rel="stylesheet" href="{{url_for('static', filename = 'css/about.css')}}">
+{%endblock%}
+{%block content%}
+
+<div class="container">
+    <div class="card my-2">
+        <h1 class="text-center" style="font-family: 'Major Mono Display', monospace; font-size: 70px;">60 Seconds</h1>
+        <div class="text-center">
+            <a href="https://github.com/stephenremmi/pitch-idea" target="_blank">
+                <p>Visit on github <i class="fab fa-github"></i></p>
+            </a>
+        </div>
+        <div class="content">
+            <h3>Overall Project Description</h3>
+            <p class="my-2">   
+                In life, you only have 60 seconds to impress someone. 1 minute can make or break you. How do we make sure that you use your 1 minute to actually say something meaningful?
+                Your task this week is to create an application that allows users to use that one minute wisely. The users will submit their one minute pitches and other users will vote on them and leave comments to give their feedback on them.
+            </p>
+            <p>
+                The pitches are organized by category. You can have different categories like pickup lines, interview pitch, product pitch, promotion pitch.(You don't have to use these categories, you can come up with your own creative categories) 
+                The pitches should be arranged by category and the new posts should be displayed first.
+            </p>
+
+            <h3 class="my-4">User Story</h3>
+            <p>
+                <span class="my-1">Here are some user stories</span>
+                <ul>
+                    <li>As a user, I would like to see the pitches other people have posted.</li>
+                    <li>As a user, I would like to be signed in for me to leave a comment</li>
+                    <li>As a user, I would like to receive a welcoming email once I sign up.</li>
+                    <li>As a user, I would like to view the pitches I have created in my profile page.</li>
+                    <li>As a user, I would like to comment on the different pitches and leave feedback.</li>
+                    <li>As a user, I would like to submit a pitch in any category.</li>
+                    <li>As a user, I would like to view the different categories.</li>
+                </ul>
+            </p>
+        </div>
+         
+    </div>
+</div>
+{%endblock%}
