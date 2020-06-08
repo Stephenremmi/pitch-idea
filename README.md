@@ -20,6 +20,7 @@ Here are the features in summary:
 * This python program requires python 3+ (and pip) installed.A guide on how to install can be found [here](https://www.python.org/)
 * Once python is installed install the following external libraries provided in the requirements.txt file using pip
 * Example:
+          * **`pip install flask`**
 
 
 
