@@ -22,7 +22,7 @@ Here are the features in summary:
 * Example:
            **`pip install flask`**
 
-### Installation and Setup
+### Installation and Set-up
           
 
 
