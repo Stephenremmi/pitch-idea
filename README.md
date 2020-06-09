@@ -60,7 +60,7 @@ You can provide feedback or raise any issues/bugs through the following means:
 * stephenremmi@gmail.com
 
 ### Live Site Link
-You can view the live application by following this [link]()
+You can view the live application by following this [link](https://pitch-idea.herokuapp.com/about)
 
 ### [License](https://github.com/Stephenremmi/pitch-idea/blob/master/LICENSE)
 MIT license Copyright(c) 2020 **Stephen Remmi**
